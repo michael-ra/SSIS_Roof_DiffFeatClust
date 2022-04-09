@@ -17,7 +17,7 @@ Our aim was to segment roofs to presegment them, before humans will fine-tune th
 
 Also, we have done data-cleaning, checking and used a data-centric approach to select high quality and relevant data (as especially our masks were not that great in every picture, sometimes only filling 1% of the image i.e.).
 We also compared all different types and gradual improvements we have made to suit the model to our usecase in comparison to the baseline model found in [the original paper](#1).
-In the end, we also compared our Deeplearning networks to a more traditional machine learning approach as k-means and also a basic method for segmentation based on greyscaling the image.
+In the end, we also compared our Deeplearning networks to a more traditional machine learning approach (k-means) and also a basic method for segmentation based on greyscaling the image.
 ## Authors
 
 - [Michael Ramich](https://github.com/michael-ra)
