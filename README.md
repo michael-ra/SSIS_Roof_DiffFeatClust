@@ -6,6 +6,7 @@ This is our take on semi-supervised image segmentation based on a paper on unsup
 by Kanezaki and Tanak [[1]](#1). We improved on their model and adjusted it for our needs in roof segmentation.
 Our aim was to segment roofs to presegment them, before humans will fine-tune the segmentation. 
 
+[The paper to this project is avaliable in this Github Repo as well.](https://github.com/michael-ra/SSIS_Roof_DiffFeatClust/blob/main/SSIS_Roof_DiffFeatClust.pdf)
 
 #### Short summary of the network
 - Convolutional model
